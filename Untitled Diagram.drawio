@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T05:51:04.459Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="btDzOmgmlxkenhnWNTpU" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T05:52:50.880Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="S_elRxxdjdsDWsKB6Try" version="15.3.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1102" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -41,13 +41,19 @@
           <mxGeometry x="870" y="470" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hH_3omOtDUelWJfwpGd8-1786" value="MEDIR&amp;nbsp; LA CALIDAD DE DEMPEÑO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="460" height="60.5" as="geometry" />
+          <mxGeometry x="180" y="640" width="320" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="hH_3omOtDUelWJfwpGd8-1787" value="MEJORAR LA CALIDAD DEL RENDIMIENTO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="640" width="460" height="60.5" as="geometry" />
+          <mxGeometry x="610" y="640" width="460" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="hH_3omOtDUelWJfwpGd8-1789" value="Norma ISO 25000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="320" width="40" height="20" as="geometry" />
+        <mxCell id="hH_3omOtDUelWJfwpGd8-1791" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="669.75" as="sourcePoint" />
+            <mxPoint x="590" y="669.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hH_3omOtDUelWJfwpGd8-1794" value="Norma ISO 25000" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="245" y="290" width="635" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
