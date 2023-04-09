@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T04:59:33.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="9Bh22bJkRO1z8M8iyt7B" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T05:07:18.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="23cmst4o8ZfIqyNy3ofd" version="21.1.5" type="github">
   <diagram name="Página-1" id="UMxCw8zkfoW1ePvwOfRb">
     <mxGraphModel dx="878" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-27" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginLeft=67;strokeColor=#666666;gradientColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="89" width="680" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-28" value="Tab 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="CAV_FXf7eOxR6cL3zmWJ-27">
+          <mxGeometry width="60" height="25" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-29" value="Tab 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="CAV_FXf7eOxR6cL3zmWJ-27">
+          <mxGeometry width="60" height="25" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-30" value="Tab 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="CAV_FXf7eOxR6cL3zmWJ-27">
+          <mxGeometry width="60" height="25" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-31" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.leftButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;resizeHeight=1;movable=0;deletable=0;" vertex="1" parent="CAV_FXf7eOxR6cL3zmWJ-27">
+          <mxGeometry width="7" height="370" relative="1" as="geometry">
+            <mxPoint x="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="725" y="45" width="30" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-34" value="Button Text" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="81" y="45" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAV_FXf7eOxR6cL3zmWJ-35" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.buffer;fillColor=#221F1F;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="408" y="45" width="50" height="31.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
